@@ -144,8 +144,9 @@ Connect Power BI to your SQL database or CSV file.
 View Gamma Presentation
 Open the Gamma link in the presentation/ folder to view the final storytelling presentation.
 
-📁 Folder Structure
-customer-behavior-analytics/
+📁 Folder Structure:
+ customer-behavior-analytics
+
 data/                  # Raw and cleaned datasets
 notebooks/             # Python notebooks (EDA, cleaning)
 sql/                   # SQL query scripts

@@ -148,11 +148,17 @@ Open the Gamma link in the presentation/ folder to view the final storytelling p
  customer-behavior-analytics
 
 data/                  # Raw and cleaned datasets
+
 notebooks/             # Python notebooks (EDA, cleaning)
+
 sql/                   # SQL query scripts
+
 dashboard/             # Power BI dashboard files (.pbix)
+
 report/                # Project summary report
+
 presentation/          # Gamma presentation link/slides
+
 README.md              # Project documentation
 
 🚀 Key Takeaways
